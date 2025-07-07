@@ -1,4 +1,4 @@
-![Welcome Image](profile/amsterdam.jpg.png)
+![Welcome Image](amsterdam.jpg.png)
 Image from Sean Goggins, Augur Maintainer
 
 # Welcome
